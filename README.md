@@ -13,7 +13,7 @@ I'm a passionate IT Web Developer with a love for coding and self-improvement. G
 - **Back-End:** Node.js, Express
 - **Data Structures and Algorithms**
 - **Personal Finance Enthusiast** 💰
-- **Astrology & Numerology Enthusiast** 🔮
+  
 
 ### 🌟 Let's Connect:
 
